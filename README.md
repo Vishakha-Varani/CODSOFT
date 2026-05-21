@@ -3,22 +3,7 @@ CODSOFT internship tasks including machine learning and Python projects.
 # 🚀 CODSOFT Internship - Machine Learning Projects
 
 This repository contains all the tasks completed as part of the **CODSOFT Internship Program**.  
-It includes machine learning projects built using Python and real-world datasets with a focus on practical implementation of AI/ML concepts.
-
----
-
-## 📂 Repository Structure
-
-CODSOFT/
-│
-├── Task 1 - Movie Genre Classification/
-│   ├── movie_genre_classification.py
-│   ├── train_data.txt
-│
-├── Task 2 - (Upcoming Task)/
-├── Task 3 - (Upcoming Task)/
-└── README.md
-
+It includes machine learning projects built using Python and real-world datasets with a focus on practical implementation of AI/ML concepts
 ---
 
 ## 🎯 Tasks Completed
